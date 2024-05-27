@@ -1,0 +1,19 @@
+Json Schema
+Meal
+Order
+User/registerCustomer
+    /signup
+
+rewrite jsonschema again in products/add.js again
+
+Response Message
+Meal
+Order/ except add.js
+User/registerCustomer.js
+    signup.js
+Verification
+
+config
+mongooseClient
+winston 
+Morgan
